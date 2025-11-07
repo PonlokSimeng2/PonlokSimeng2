@@ -11,8 +11,8 @@ I specialize in **Flutter**, **Laravel**, **Firebase**, and **Supabase** — con
 - ⚙️ Backend experience with **Laravel** and **RESTful APIs**  
 - 🔥 Love working with **Firebase** (Auth, Firestore, Storage, Cloud Functions)  
 - 🧩 Building real-time apps with **Supabase** and PostgreSQL  
-- ☁️ Deploying and managing apps using **Vercel**, **Supabase**, and **Firebase Hosting**  
-- 🎨 Enjoy clean UI, state management (Provider, Riverpod), and responsive design
+- ☁️ Deploying and managing apps using **Android and Apple Developers Account**,**Cpanel**, **Supabase**, and **Firebase Hosting**  
+- 🎨 Enjoy clean UI, state management (Getx, Riverpod), and responsive design
 
 ---
 
