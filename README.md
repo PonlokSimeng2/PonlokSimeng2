@@ -15,6 +15,6 @@ I'm a full-stack mobile developer (Flutter focused). Love clean code, learning, 
 
 💼 Opted to Hire
 
-📁 29 Public Repositories
+📁 2 Public Repositories
 
-🔒 95 Private Repositories
+🔒 26 Private Repositories
