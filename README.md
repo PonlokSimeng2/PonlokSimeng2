@@ -24,16 +24,16 @@ I specialize in **Flutter**, **Laravel**, **Firebase**, and **Supabase** — con
 | **Backend** | Laravel (PHP), Supabase, Firebase Functions |
 | **Database** | Firestore, Supabase PostgreSQL, MySQL |
 | **Dev Tools** | Git, VSCode, Android Studio, Xcode |
-| **Hosting** | Firebase Hosting, Vercel, Supabase |
+| **Hosting** | Firebase Hosting, Supabase |
 
 ---
 
 ## 🧩 Currently Working On
 
-- 📱 Developing **KFA Mobile** – a real estate and property management app  
+- 📱 Developing **Chat App** – a real estate and property management app  
 - 🔗 Integrating **Supabase** for authentication and data storage  
-- ☁️ Building scalable **APIs** with **Laravel**  
-- 📊 Implementing real-time features using **Firebase Realtime Database**  
+- ☁️ Building scalable **APIs** with **Supabase**  
+- 📊 Implementing real-time features using **Supabase Realtime Database**  
 - 🧠 Exploring **AI-powered** and **data-driven** app enhancements
 
 ---
