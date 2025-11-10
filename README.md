@@ -18,25 +18,6 @@
 
 ## 🧠 About Me
 
-```dart
-class Developer {
-  final String name = "Ponlok Simeng";
-  final String role = "Full Stack Mobile Developer";
-  final String location = "Cambodia 🇰🇭";
-  
-  List<String> specialties = [
-    "Flutter cross-platform development",
-    "RESTful API design with Laravel",
-    "Real-time app architecture",
-    "Cloud infrastructure & deployment",
-    "Clean code & best practices"
-  ];
-  
-  String currentFocus = "Building scalable mobile apps with Flutter & Supabase";
-  String motto = "Write clean code, keep learning, and build things that matter";
-}
-```
-
 - 💙 Specialized in **Flutter** for cross-platform mobile app development
 - ⚙️ Backend expertise with **Laravel** and **RESTful APIs**
 - 🔥 Proficient with **Firebase** ecosystem (Auth, Firestore, Storage, Cloud Functions)
@@ -144,8 +125,6 @@ class Developer {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponloksimeng@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PonlokSimeng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
