@@ -134,8 +134,6 @@
 
 ### 💭 Developer Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 **"Write clean code, keep learning, and build things that matter."** ✨
 
 ⭐️ From [PonlokSimeng2](https://github.com/PonlokSimeng2)
